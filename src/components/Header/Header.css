@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  font-size: 30px;
+  color: yellow;
+  margin: 25px;
+}
+
+.title {
+  float: left;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.scores {
+  float: right;
+  font-family: 'Press Start 2P', cursive;
+}

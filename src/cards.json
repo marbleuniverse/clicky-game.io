@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Padme",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218676-42-Padme-Amidala.jpg?crop=1260:720&width=1260",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Rey",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/d286b7fef2299a600fe7de3776b32f74319d2cc5-4c1a69ff-e61f-417d-949c-5b9bab9dde3d.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "BB-8",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/bb-8_14e2ad77-68056ba6-7933-428b-b876-010957a8b049.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Chewbacca",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218604-14-Chew.jpg?crop=1260:720&width=1260",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Darth Vader",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218586-2-vader-f6cdf838-912c-4bfa-8a12-f43521fbd99c.jpg?crop=1260:720&width=1260",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Han Solo",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218584-1-han-f4c9a887-81df-4c58-b166-94ab4485286b.jpg?crop=1260:720&width=1260",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Admiral Ackbar",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218635-18-ackbar-b6dfad9a-3296-4a9e-ba4a-16b756d7b962.jpg?crop=1260:720&width=1260",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Kylo Ren",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/kylo-ren_fa163069-3dbaebc4-cc90-416a-8e13-24204ceb753a.jpg?crop=1260:720&width=1260",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "The Emperor",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218611-17-Emp.jpg?crop=1260:720&width=1260",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Greedo",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218601-12-greedo-8b70aad0-a812-41f8-a3fc-ed4044347a24.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Darth Maul",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218597-10-darth-maul-f7404aae-41a5-46bf-8422-6cedebde95d8.jpg?crop=1260:720&width=1260",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Luke",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-218592-6-luke-cd70ba0f-828e-4231-9c8d-f8d6ab92a07b.jpg?crop=1260:720&width=1260",
+    "count": 0
+  }
+]
